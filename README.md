@@ -1,3 +1,3 @@
 # CNN-SVM
-For feature extraction, implemented by Convolutional neural network
+Used CNN to extract features of large-scale pathology images. 
 For brain tumor image classification, implemented by SVM (best test accuracy) compared with other servel classification algorithms
